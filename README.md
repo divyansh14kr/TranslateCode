@@ -62,7 +62,7 @@ Ensure you have the following installed on your system:
 This project is licensed under the MIT License.
 
 ## Contributors
-- Your Name ([Your GitHub Profile](https://github.com/your-profile))
+- Your Name ([Divyansh Kumar](https://github.com/divyansh14kr))
 
 ## Acknowledgments
 - **Google Gemini AI** for powering the code translation.
